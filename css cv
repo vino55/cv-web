@@ -1,0 +1,99 @@
+table, th, td {
+    border: 1px solid black;
+}
+
+ h3
+ {
+ font-size:150%
+ }
+ 
+ h4{
+ font-size:150%
+ }
+ 
+ h5{
+ font-size:150%
+ }
+ 
+ h6{
+ font-size:150%
+ }
+ 
+ body {
+    background-image: url("https://2.bp.blogspot.com/-eIx5ni82OTY/WNNEk8tX9bI/AAAAAAAAEFk/-tmonJlAjdkYH1xu9LlS3CpHaOLZepr5gCLcB");
+}
+ 
+
+p img
+{
+    text-align: center;
+}
+
+*
+
+{
+
+    color: bleu;
+
+}
+
+h1
+{
+ font-size:40px;
+}
+
+*
+{
+
+    text-align: center;
+
+}
+
+
+
+
+/* On travaille sur la balise body, donc sur TOUTE la page */
+
+body
+
+{
+
+    background-color: gray; /* Le fond de la page sera noir */
+
+    color: black; /* Le texte de la page sera blanc */
+
+}
+
+body {
+    border: 15px solid black;
+}
+
+
+table
+{
+margin: auto;
+}
+td
+{
+text-align :center;
+}
+
+div.center  {
+    width: 50%;
+    border: 15px solid black;
+    padding: center;
+    margin:auto;
+	
+	 text-align: justify;
+	 position:auto;
+	 float: justify;
+	 display: block;
+	 
+}
+ul{ list-style-type:none}
+
+
+h7  {
+    font-size:150%;
+	 
+}
